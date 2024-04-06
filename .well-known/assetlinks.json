@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "kz.orkndev.githubclient",
+    "sha256_cert_fingerprints":
+    ["ED:F5:E1:E7:33:8E:CD:56:E5:72:82:CA:CC:FE:1E:37:7D:FB:45:FA:5F:49:19:0F:B7:70:F4:2E:89:51:9B:D0"]
+  }
+}]
